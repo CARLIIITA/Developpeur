@@ -1,0 +1,59 @@
+*{
+padding: 0;
+margin: 0;
+font-family: fantasy;
+
+
+}
+.LogoTomFord{
+width: 10%;
+}
+nav{
+    display: flex;
+    list-style: none;
+    width: 100%;
+    background-color:grey;
+    height: 65px;
+    padding: 0px;
+    font-size: 15px;
+    font-size: large;
+    font-weight: bolder; 
+}
+
+nav li {  
+   margin-left: 350px;
+   
+}
+#parfum{
+    width: 100%;
+}
+.Texteh2{
+text-align: center;
+font-size: 30px;
+}
+.Mid{
+    display: flex;
+    text-align: justify;
+}
+.Mid .texte1{
+    width: 70%;
+    
+}
+.TFCHERRY{
+width: 70%;
+margin-left: 470px;
+}
+.textenouvcol{
+text-align: center;
+font-size: 30px;
+}
+.banniererose{
+    width: 70%;
+    margin-left: 670px;
+}
+.texte2{
+    width: 70%;   
+}
+.parfumrose{
+    display: flex;
+}
