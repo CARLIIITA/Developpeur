@@ -84,3 +84,51 @@ main{
     width: 45%;
     padding-left: 30px;
 }
+
+
+@media screen and (max-width: 430px){
+header{
+    background-color: aqua;
+    display: inline;
+}
+#LogoTomFord{
+    width: 30px;  
+}
+nav{
+width: 100%;
+height: 20px;
+}
+nav li {  
+padding: 0px;
+margin: 0px; 
+font-size: 10px; 
+}
+.Texteh2 {
+font-size: 7px;
+width: 50%; 
+padding: 0;
+
+}
+.Mid {
+display: inline;
+}
+.texte1 p{
+font-size: 7px; 
+
+
+
+}
+.texte1{
+   
+
+}
+.textenouvcol h2{
+font-size: 15px;
+width: 100%;
+}
+#parfum{
+    width: 50%;
+   
+}
+
+}
