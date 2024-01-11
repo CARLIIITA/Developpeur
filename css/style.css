@@ -1,9 +1,7 @@
 *{
 padding: 0;
 margin: 0;
-font-family: fantasy;
-
-
+font-family: 'DM Serif Display', serif;
 }
 .LogoTomFord{
 width: 10%;
@@ -12,48 +10,77 @@ nav{
     display: flex;
     list-style: none;
     width: 100%;
-    background-color:grey;
+    background-color:rgba(221, 179, 27, 0.144);
     height: 65px;
     padding: 0px;
     font-size: 15px;
     font-size: large;
-    font-weight: bolder; 
+    position: absolute;
 }
 
 nav li {  
    margin-left: 350px;
+   margin-top: 20px;
    
 }
 #parfum{
     width: 100%;
 }
 .Texteh2{
+margin-top: 30px;
 text-align: center;
-font-size: 30px;
+font-size: 50px;
 }
 .Mid{
     display: flex;
     text-align: justify;
 }
 .Mid .texte1{
-    width: 70%;
+    width: 95%;
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 190px;
+    font-size: 25px;
+    word-spacing: 15px;
     
 }
 .TFCHERRY{
-width: 70%;
-margin-left: 470px;
+width: 65%;
 }
 .textenouvcol{
+margin-top: 30px;
 text-align: center;
-font-size: 30px;
+font-size: 50px;
+
 }
 .banniererose{
-    width: 70%;
-    margin-left: 670px;
+height: 700px;    
 }
 .texte2{
-    width: 70%;   
+    width: 95%;
+    font-size: 25px;
+    padding-left: 50px;
+    word-spacing: 15px;
+    text-align: justify;
+    
 }
 .parfumrose{
     display: flex;
+    padding-top: 50px;
+}
+main{
+    width: 100%;
+}
+#parfum2{
+    width: 60%;
+    padding-left: 350px;
+    padding-top: 60px;
+}
+#roseprick{
+    width: 45%;
+    padding-left: 80px;
+}
+#rosederussie{
+    width: 45%;
+    padding-left: 30px;
 }
